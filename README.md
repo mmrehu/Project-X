@@ -32,6 +32,7 @@ This repository contains a command-line utility for performing various network a
 ## Requirements
 
 - git clone
+- always run in root
 
 ## Usage
 
@@ -39,9 +40,9 @@ Clone the repository and run the main script. Follow the on-screen prompts to na
 
 ```bash
 git clone https://github.com/mmrehu/Project-X.git
-cd Projext X
+cd Projext-X
 chmod +x *
-bash ProjectX.sh
+bash projectX.sh
 
 ```
 go to option 5 and use reintall option for upgrading all tolls and requirements or simple exit tool and  use 
