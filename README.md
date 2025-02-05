@@ -50,7 +50,7 @@ go to option 5 and use reintall option for upgrading all tolls and requirements 
 ./remove.sh
 ./install.sh
 ```
-
+tested on kali linux 
 **Disclaimer:** This tool is intended for educational and ethical hacking purposes only. Ensure you have permission to test the networks and websites you are targeting.
 
 
