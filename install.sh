@@ -31,7 +31,8 @@ install_packages=( \
     git \                 
     amass \              
     figlet \             
-    hping3 \             
+    hping3 \ 
+    toilet-fonts \
     dsniff              
 )  
 
