@@ -45,7 +45,7 @@ chmod +x *
 bash ProjectX.sh
 
 ```
-go to option 5 and use reintall option for upgrading all tolls and requirements ot simple use 
+go to option 5 and use reintall option for upgrading all tolls and requirements or simple exit tool and  use 
 ```bash
 ./remove.sh
 ./install.sh
