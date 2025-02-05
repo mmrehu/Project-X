@@ -39,10 +39,16 @@ This repository contains a command-line utility for performing various network a
 Clone the repository and run the main script. Follow the on-screen prompts to navigate through the various options.
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
-chmod +x main_script.sh
-./main_script.sh
+git clone https://github.com/mmrehu/Project-X.git
+cd Projext X
+chmod +x *
+bash ProjectX.sh
+
+```
+go to option 5 and use reintall option for upgrading all tolls and requirements ot simple use 
+```bash
+./remove.sh
+./install.sh
 ```
 
 **Disclaimer:** This tool is intended for educational and ethical hacking purposes only. Ensure you have permission to test the networks and websites you are targeting.
