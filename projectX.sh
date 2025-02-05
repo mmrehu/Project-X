@@ -309,10 +309,10 @@ while true; do
         case $attack_choice in  
             1) echo "update started..."
             cd
-            rm -rf 
+            rm -rf Project-X
             echo "files deleted"
             echo "installing Tool......"
-            git clone
+            git clone https://github.com/mmrehu/Project-X
  ;;  
  2) echo "reinstalling........"
             chmod +x *
