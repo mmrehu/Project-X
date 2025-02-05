@@ -312,7 +312,7 @@ while true; do
             rm -rf Project-X
             echo "files deleted"
             echo "installing Tool......"
-            git clone https://github.com/mmrehu/Project-X
+            git clone https://github.com/mmrehu/Project-X.git
  ;;  
  2) echo "reinstalling........"
             chmod +x *
