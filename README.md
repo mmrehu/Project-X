@@ -31,8 +31,7 @@ This repository contains a command-line utility for performing various network a
 
 ## Requirements
 
-- Bash shell
-- Necessary tools installed (e.g., `figlet`, `nmap`, `curl`, `aircrack-ng`, `hping3`, etc.)
+- git clone
 
 ## Usage
 
