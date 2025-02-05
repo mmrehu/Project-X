@@ -313,6 +313,9 @@ while true; do
             echo "files deleted"
             echo "installing Tool......"
             git clone https://github.com/mmrehu/Project-X.git
+            cd 
+            cd Project-X
+ chmod +x *
  ;;  
  2) echo "reinstalling........"
             chmod +x *
