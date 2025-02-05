@@ -28,6 +28,8 @@ This repository contains a command-line utility for performing various network a
 
 - **Tool Settings**
   - Update and Reinstall Options
+ 
+  - always close and open terminal after update
 
 ## Requirements
 
